@@ -3,6 +3,7 @@
 Basic example server for Exuvia discord bot.<br>
 
 includes 2* example commands<br>
+Listens on port `3000` by default<br>
 
 Expect cleanup, usability improvements and feature updates over the ${next time period here}<br>
 
