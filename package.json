@@ -1,0 +1,23 @@
+{
+  "name": "exuvia-server",
+  "version": "0.0.1",
+  "description": "Basic example server for Exuvia discord bot. Runs on port 3000 for now",
+  "main": "main.js",
+  "dependencies": {
+    "socket.io": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haru-Industries/Exuvia-server.git"
+  },
+  "author": "Joshj23icy (Joshj23#4817)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haru-Industries/Exuvia-server/issues"
+  },
+  "homepage": "https://github.com/Haru-Industries/Exuvia-server#readme"
+}
